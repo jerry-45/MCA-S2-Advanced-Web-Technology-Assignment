@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Welcome to the Home Page</h2>
+
+<p>
+    <a href="@Url.Action("GetData", "Home")">Get Data</a>
+</p>
+
+<form action="@Url.Action("SaveData", "Home")" method="post">
+    <input type="text" name="data" />
+    <input type="submit" value="Save Data" />
+</form>

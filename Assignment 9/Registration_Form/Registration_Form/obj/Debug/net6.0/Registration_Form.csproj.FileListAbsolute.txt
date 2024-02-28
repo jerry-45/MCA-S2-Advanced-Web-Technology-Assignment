@@ -1,0 +1,8 @@
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.csproj.AssemblyReference.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.AssemblyInfoInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.AssemblyInfo.cs
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.csproj.CoreCompileInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.RazorAssemblyInfo.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\Assignment 9\Registration_Form\Registration_Form\obj\Debug\net6.0\Registration_Form.RazorAssemblyInfo.cs

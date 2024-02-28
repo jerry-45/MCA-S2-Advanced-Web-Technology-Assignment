@@ -1,0 +1,15 @@
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\bin\Debug\net6.0\FactorialCalculator.exe
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\bin\Debug\net6.0\FactorialCalculator.deps.json
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\bin\Debug\net6.0\FactorialCalculator.runtimeconfig.json
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\bin\Debug\net6.0\FactorialCalculator.dll
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\bin\Debug\net6.0\FactorialCalculator.pdb
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.csproj.AssemblyReference.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.AssemblyInfoInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.AssemblyInfo.cs
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.dll
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\refint\FactorialCalculator.dll
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.pdb
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\FactorialCalculator.genruntimeconfig.cache
+D:\Projects\MCA-Advanced-Web-Technology-Assignment\FactorialCalculator\FactorialCalculator\obj\Debug\net6.0\ref\FactorialCalculator.dll
